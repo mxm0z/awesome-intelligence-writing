@@ -1,4 +1,4 @@
-## Intelligence Writing
+## Intelligence Writing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mxm0z/awesome-intelligence-writing)
 
 _<div align="center">Good intelligence depends in large measure on clear, concise writing. (CIA)_</div>
 
