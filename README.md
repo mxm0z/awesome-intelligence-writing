@@ -81,7 +81,7 @@ Articles & News related to CIA's Style Manual & Writers Guide
 
 #### Presentations
 
-- [How to Create Meaninful Intelligence Reports](https://proceedings.esri.com/library/userconf/proc16/tech-workshops/tw_74-33.pdf)
+- [How to Create Meaningful Intelligence Reports](https://proceedings.esri.com/library/userconf/proc16/tech-workshops/tw_74-33.pdf)
 
 #### Trainings/Courses
 
