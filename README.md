@@ -106,3 +106,9 @@ Articles & News related to CIA's Style Manual & Writers Guide
 #### Contribute <3
 
 There's little public resources about this specific topic. Please feel free to contribute on this project, either by sending a PR or sending me at ygormaximo@pm.me suggestions of additional resources.
+
+---
+
+#### Disclaimer
+
+I currently work as a Cyber Threat Intelligence Analyst but **I'm not an expert on intelligence writing**. I created this collection as part of my learning process of this essential topic and as a way to share and learn with the intelligence/cybersecurity community.
