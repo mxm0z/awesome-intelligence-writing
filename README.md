@@ -83,6 +83,10 @@ Articles & News related to CIA's Style Manual & Writers Guide
 
 - [How to Create Meaningful Intelligence Reports](https://proceedings.esri.com/library/userconf/proc16/tech-workshops/tw_74-33.pdf)
 
+#### Books
+
+- [Communicating with Intelligence: Writing and Briefing for National Security](https://www.amazon.com/Communicating-Intelligence-Briefing-Professional-Education/dp/1442226625) (James S. Major)
+
 #### Trainings/Courses
 
 - [Threat Intelligence Writing](https://school.threatintel.academy/courses/cti-writing) (Threat Intelligence Academy)
