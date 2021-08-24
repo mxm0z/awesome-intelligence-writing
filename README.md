@@ -31,6 +31,12 @@ Articles & News related to CIA's Style Manual & Writers Guide
 - [DIA's Style Manual for Intelligence Production](https://www.governmentattic.org/23docs/DIAstyleManualIntelProd_2016.pdf) (governmentattic.org)
 - [DIA's Style Manual for Intelligence Production](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/149619/) (dia.mil)
 
+#### Office of the Director of National Intelligence (DNI)
+
+- [ICD 203 - Analytic Standards](https://www.dni.gov/files/documents/ICD/ICD%20203%20Analytic%20Standards.pdf)
+- [ICD 206 - Sourcing Requirements for Disseminated Analytic Products](https://www.dni.gov/files/documents/ICD/ICD%20206.pdf)
+- [ICD 208 - Maximizing the Utility of Analytic Products](https://www.dni.gov/files/documents/ICD/ICD%20208%20-%20Maximizing%20the%20Utility%20of%20Analytic%20Products%20(09%20Jan%202017).pdf)
+
 #### U.S. Army Intelligence Center of Excellence
  
 - [USAICoE Writing Program Resources](https://intellibrary.libguides.com/c.php?g=654854&p=6527880)
@@ -105,7 +111,7 @@ Articles & News related to CIA's Style Manual & Writers Guide
 ---
 #### Contribute <3
 
-There's little public resources about this specific topic. Please feel free to contribute on this project, either by sending a PR or sending me at ygormaximo@pm.me suggestions of additional resources.
+There are little public resources about this specific topic. Please feel free to contribute on this project, either by sending a PR or sending me a message at ygormaximo@pm.me with suggestions of additional resources.
 
 ---
 
