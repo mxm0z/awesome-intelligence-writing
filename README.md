@@ -115,6 +115,12 @@ There are little public resources about this specific topic. Please feel free to
 
 ---
 
+#### Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/mxm0z/awesome-intelligence-writing.svg)](https://starchart.cc/mxm0z/awesome-intelligence-writing)
+
+---
+
 #### Disclaimer
 
 I currently work as a Cyber Threat Intelligence Analyst but **I'm not an expert on intelligence writing**. I created this collection as part of my learning process of this essential topic and as a way to share and learn with the intelligence/cybersecurity community.
