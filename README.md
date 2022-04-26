@@ -25,7 +25,7 @@ Articles & News related to CIA's Style Manual & Writers Guide
 - [11 Grammar Lessons From a Leaked CIA Style Book](https://www.mentalfloss.com/article/57743/11-grammar-lessons-leaked-cia-style-book)
 
 #### Mercyhurst College - Institute for Intelligence Studies
-- [The Analyt's Style Manual](https://ncirc.bja.ojp.gov/sites/g/files/xyckuh326/files/media/document/analysts_style_manual.pdf)
+- [The Analyst's Style Manual](https://ncirc.bja.ojp.gov/sites/g/files/xyckuh326/files/media/document/analysts_style_manual.pdf)
 
 #### Defense Intelligence Agency (DIA)
 - [DIA's Style Manual for Intelligence Production](https://www.governmentattic.org/23docs/DIAstyleManualIntelProd_2016.pdf) (governmentattic.org)
