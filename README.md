@@ -4,7 +4,7 @@ _<div align="center">Good intelligence depends in large measure on clear, concis
 
 <div align="center">:male_detective:</div>
 
-This is a collection of great and very useful resources concerning **intelligence writing** such as manuals/guides, standards, books, and articles. There are both official and community resources. The collection is aimed to those looking to improve their intelligence writing skills (including me).
+This is a collection of awesome resources on **Intelligence Writing** such as manuals/guides, standards, books, and articles. There are both official and community resources. The collection is aimed to those looking to improve their intelligence writing skills (including myself).
 
 ---
 
@@ -127,7 +127,7 @@ Articles & News related to CIA's Style Manual & Writers Guide
 ---
 #### Contribute <3
 
-There are little public resources about this specific topic. Please feel free to contribute on this project, either by sending a PR or sending me a message at ygormaximo@pm.me with suggestions of additional resources.
+There are little public resources about this specific topic. Please feel free to contribute on this project, either by sending a PR or shooting me an email at intelwriting.fm7ja@passinbox.com with suggestions of additional resources.
 
 ---
 
