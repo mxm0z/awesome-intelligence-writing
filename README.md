@@ -65,6 +65,10 @@ Articles & News related to CIA's Style Manual & Writers Guide
 - [Structuring Cyber Threat Intelligence Assessments: Musings and Recommendations](https://www.robertmlee.org/structuring-cyber-threat-intelligence-assessments-musings-and-recommendations/) (Robert M. Lee)
 - [A Quick Start Guide to Writing Intelligence Analysis](https://theinteldesk.substack.com/p/a-quick-start-guide-to-writing-intelligence) (Meaghan Gruppo)
 
+#### Quick Tips
+
+- [6 Intelligence Writing Tips](https://www.gadintel.com/_files/ugd/2be2d6_13f33e9fa5bd4115817944451da46e32.pdf) (GadIntel - Angie Gad)
+
 #### Articles
 
 - [Write Like a Spy: Using U.S. Intelligence Guidelines to Reinforce the Lessons of Predictive Legal Writing](https://legal.thomsonreuters.com/content/dam/ewp-m/documents/legal/en/pdf/other/perspectives/2020/spring/2020-spring-article-4.pdf) (Joe Fore)
