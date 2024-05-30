@@ -86,6 +86,7 @@ Articles & News related to CIA's Style Manual & Writers Guide
 - [Writing Meaningful Threat Intel Reports in MISP](https://youtu.be/suDo-p3Nu5w) (MISP - 2h30min)
 - [Writing Open Source Intelligence Reports](https://youtu.be/lDe8_z-UCZ4) (Mossé Cyber Security Institute - 3min)
 - [Dissemination of Intelligence](https://youtu.be/x5bHZ8I6nUU?list=PL8nt2WoztgBnZvWMoculd2rPHcPMb6cBM) (Steve Barry - 28min)
+- [Writing With Clarity: Simple Steps to Become a Faster, More Effective Communicator](https://youtu.be/8lnxP93ZEtk) (Darren Pauli - AusCERT - 39min)
 
 #### Podcasts
 
