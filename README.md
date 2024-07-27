@@ -12,8 +12,10 @@ This is a collection of awesome resources on **Intelligence Writing** such as ma
 
 - [Style Manual & Writers Guide for Intelligence Publications](https://fas.org/irp/cia/product/style.pdf)
 - [Analytic Thinking and Presentation for Intelligence Producers](https://cryptome.org/cia-ath-pt1.htm)
+  ([archived in this repository](./Analytic-Thinking-CIA.pdf))
 - [Thinking and Writing: Cognitive Science and Intelligence Analysis](https://www.cia.gov/resources/csi/books-monographs/thinking-and-writing/)
 - [CIA - IC Writing Style](https://contentsparks.com/wp-content/uploads/2022/01/cia-writing_guide2017.pdf)
+  ([archived in this repository](./cia-writing_guide2017.pdf))
 
 Articles & News related to CIA's Style Manual & Writers Guide
 
@@ -27,10 +29,12 @@ Articles & News related to CIA's Style Manual & Writers Guide
 #### Mercyhurst College - Institute for Intelligence Studies
 
 - [The Analyst's Style Manual](https://ncirc.bja.ojp.gov/sites/g/files/xyckuh326/files/media/document/analysts_style_manual.pdf)
+  ([archived in this repository](./analysts_style_manual.pdf))
 
 #### Defense Intelligence Agency (DIA)
 
 - [DIA's Style Manual for Intelligence Production](https://www.governmentattic.org/23docs/DIAstyleManualIntelProd_2016.pdf) (governmentattic.org)
+  ([archived in this repository](./DIAstyleManualIntelProd_2016.pdf))
 - [DIA's Style Manual for Intelligence Production](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/149619/) (dia.mil)
 
 #### Office of the Director of National Intelligence (DNI)
@@ -43,10 +47,12 @@ Articles & News related to CIA's Style Manual & Writers Guide
  
 - [USAICoE Writing Program Resources](https://intellibrary.libguides.com/c.php?g=654854&p=6527880)
 - [Enhancing Your Intelligence Writing Writing Guide for USAICoE and U.S. Army Writing](https://intellibrary.libguides.com/ld.php?content_id=53826333)
+  ([2020-01-04 1st edition archived in this repository](./UWP_Handbook_not_to_edit.pdf))
 
 #### Department of Justice (DOJ)
 
 - [How to Write an Intelligence Product in the Bottom Line Up Front (BLUF) Format](http://dixon.hh.se/urbi/SCADA/BLUF%20Writing%20Format.pdf)
+  ([archived in this repository](./BLUF%20Writing%20Format.pdf))
 - [Intelligence Report Writing](https://www.ojp.gov/ncjrs/virtual-library/abstracts/intelligence-report-writing-criminal-intelligence-analysis-p-181)
 
 #### Blogs
@@ -68,15 +74,19 @@ Articles & News related to CIA's Style Manual & Writers Guide
 #### Quick Tips
 
 - [6 Intelligence Writing Tips](https://www.gadintel.com/_files/ugd/2be2d6_13f33e9fa5bd4115817944451da46e32.pdf) (GadIntel - Angie Gad)
+  ([archived in this repository](./6%20Intelligence%20Writing%20Tips.pdf))
 
 #### Articles
 
 - [Write Like a Spy: Using U.S. Intelligence Guidelines to Reinforce the Lessons of Predictive Legal Writing](https://legal.thomsonreuters.com/content/dam/ewp-m/documents/legal/en/pdf/other/perspectives/2020/spring/2020-spring-article-4.pdf) (Joe Fore)
+  ([archived in this repository](./2020-spring-article-4.pdf))
 - [Intelligence Analysis Reports: A How-to Writing Guide](https://ahsawc.files.wordpress.com/2014/02/intelligence-analysis-reports.pdf) (Sandra Webb)
+  ([archived in this repository](./intelligence-analysis-reports.pdf))
 
 #### Guides
 
 - [How To Write Like An Intelligence Analyst](https://s3.amazonaws.com/usma-media/inline-images/centers_research/west_point_writing_program/PDF/WPWP%20Guides/Intelligence_Writing_for_Academics.pdf) (Thea Gioe)
+  ([archived in this repository](./Intelligence_Writing_for_Academics.pdf))
 
 #### Discussions
 
