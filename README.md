@@ -3,7 +3,7 @@
 # Awesome Intelligence Writing
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub stars](https://img.shields.io/github/stars/mxm0z/awesome-intelligence-writing?style=flat)](https://github.com/mxm0z/awesome-intelligence-writing/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/mxm0z/awesome-intelligence-writing)](https://github.com/mxm0z/awesome-intelligence-writing/commits/main)
 
@@ -123,6 +123,7 @@
 - [How You Can Write Better Threat Reports](https://zeltser.com/write-better-threat-reports/) — Lenny Zeltser
 - [Structuring Cyber Threat Intelligence Assessments](https://www.robertmlee.org/structuring-cyber-threat-intelligence-assessments-musings-and-recommendations/) — Robert M. Lee
 - [Writing a report: the BLUF framework in Intelligence Analysis](https://www.specialeurasia.com/2023/05/11/report-writing-bluf-intelligence/) — Giuliano Bifolchi
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) — Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Academic Papers
 
